@@ -1,1 +1,4 @@
-# neda-radovic
+- 👋 Hi, I’m Neda Radović
+- 👀 I’m interested in coding and painting
+- 🌱 I’m working [@codemine](https://github.com/codemine-me)
+- 📫 Reach me @ neda.radovic@codemine.me
